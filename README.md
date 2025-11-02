@@ -36,7 +36,7 @@
   <a href="https://github.com/Pre-Abalo/DataViz-Survey">
     <img src="https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Viz"/>
   </a>
-  <a href="https://github.com/Pre-Abalo/Quantum-Computing-Basics">
+  <a href="https://github.com/Pre-Abalo/QuantumLearningTDL">
     <img src="https://img.shields.io/badge/Quantum%20Basics-purple?style=for-the-badge&logo=qiskit&logoColor=white" alt="Quantum"/>
   </a>
 </p>
